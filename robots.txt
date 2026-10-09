@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tuwebentresdias.github.io/electricidad-segura/sitemap.xml
+Sitemap: https://electricidad-segura.com/sitemap.xml
